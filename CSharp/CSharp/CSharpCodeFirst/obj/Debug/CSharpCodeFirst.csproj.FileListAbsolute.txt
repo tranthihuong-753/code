@@ -1,0 +1,12 @@
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\bin\Debug\CSharpCodeFirst.exe.config
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\bin\Debug\CSharpCodeFirst.exe
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\bin\Debug\CSharpCodeFirst.pdb
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\bin\Debug\EntityFramework.dll
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\bin\Debug\EntityFramework.xml
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\obj\Debug\CSharpCodeFirst.csproj.AssemblyReference.cache
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\obj\Debug\CSharpCodeFirst.csproj.CoreCompileInputs.cache
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\obj\Debug\CSharpCo.B48AB5C3.Up2Date
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\obj\Debug\CSharpCodeFirst.exe
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpCodeFirst\obj\Debug\CSharpCodeFirst.pdb

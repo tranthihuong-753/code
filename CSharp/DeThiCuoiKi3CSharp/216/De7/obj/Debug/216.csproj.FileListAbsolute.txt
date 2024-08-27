@@ -1,0 +1,9 @@
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\216\De7\bin\Debug\De7.exe.config
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\216\De7\bin\Debug\De7.exe
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\216\De7\bin\Debug\De7.pdb
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\216\De7\obj\Debug\216.csproj.AssemblyReference.cache
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\216\De7\obj\Debug\De7.Cau4_form.resources
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\216\De7\obj\Debug\216.csproj.GenerateResource.cache
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\216\De7\obj\Debug\216.csproj.CoreCompileInputs.cache
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\216\De7\obj\Debug\De7.exe
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\216\De7\obj\Debug\De7.pdb

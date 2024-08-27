@@ -1,0 +1,12 @@
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\bin\Debug\DBfirst.exe.config
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\bin\Debug\DBfirst.exe
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\bin\Debug\DBfirst.pdb
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\bin\Debug\EntityFramework.dll
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\bin\Debug\EntityFramework.xml
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\obj\Debug\DBfirst.csproj.AssemblyReference.cache
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\obj\Debug\DBfirst.csproj.CoreCompileInputs.cache
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\obj\Debug\DBfirst.csproj.Up2Date
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\obj\Debug\DBfirst.exe
+D:\LinhTinhVoVanXamChoa\CSharp\DBfirst\obj\Debug\DBfirst.pdb

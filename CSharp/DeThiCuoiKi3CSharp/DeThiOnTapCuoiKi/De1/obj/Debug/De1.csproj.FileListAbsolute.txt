@@ -1,0 +1,9 @@
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De1\bin\Debug\De1.exe.config
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De1\bin\Debug\De1.exe
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De1\bin\Debug\De1.pdb
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De1\obj\Debug\De1.csproj.AssemblyReference.cache
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De1\obj\Debug\De1.csproj.CoreCompileInputs.cache
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De1\obj\Debug\De1.exe
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De1\obj\Debug\De1.pdb
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De1\obj\Debug\De1.Cau4Form.resources
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De1\obj\Debug\De1.csproj.GenerateResource.cache

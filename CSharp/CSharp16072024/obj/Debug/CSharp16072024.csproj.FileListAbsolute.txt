@@ -1,7 +1,0 @@
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharp16072024\bin\Debug\CSharp16072024.exe.config
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharp16072024\bin\Debug\CSharp16072024.exe
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharp16072024\bin\Debug\CSharp16072024.pdb
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharp16072024\obj\Debug\CSharp16072024.csproj.AssemblyReference.cache
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharp16072024\obj\Debug\CSharp16072024.csproj.CoreCompileInputs.cache
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharp16072024\obj\Debug\CSharp16072024.exe
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharp16072024\obj\Debug\CSharp16072024.pdb

@@ -1,7 +1,0 @@
-C:\Users\dhhuo\OneDrive\CMC\code\ntn\CSharp\ntn\obj\Debug\ntn.csproj.AssemblyReference.cache
-C:\Users\dhhuo\OneDrive\CMC\code\ntn\CSharp\ntn\obj\Debug\ntn.csproj.CoreCompileInputs.cache
-C:\Users\dhhuo\OneDrive\CMC\code\ntn\CSharp\ntn\bin\Debug\ntn.exe.config
-C:\Users\dhhuo\OneDrive\CMC\code\ntn\CSharp\ntn\bin\Debug\ntn.exe
-C:\Users\dhhuo\OneDrive\CMC\code\ntn\CSharp\ntn\bin\Debug\ntn.pdb
-C:\Users\dhhuo\OneDrive\CMC\code\ntn\CSharp\ntn\obj\Debug\ntn.exe
-C:\Users\dhhuo\OneDrive\CMC\code\ntn\CSharp\ntn\obj\Debug\ntn.pdb

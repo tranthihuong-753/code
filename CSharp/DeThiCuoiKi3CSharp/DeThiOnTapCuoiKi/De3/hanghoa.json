@@ -1,0 +1,18 @@
+[
+  {
+    "ID": "00001",
+    "MaVach": "0001000002002",
+    "Ten": "huong duong",
+    "GiaNhap": 3.0,
+    "GiaBan": 4.0,
+    "GhiChu": "no"
+  },
+  {
+    "ID": "00002",
+    "MaVach": "0220302220039",
+    "Ten": "trng di",
+    "GiaNhap": 3.0,
+    "GiaBan": 4.0,
+    "GhiChu": "no"
+  }
+]

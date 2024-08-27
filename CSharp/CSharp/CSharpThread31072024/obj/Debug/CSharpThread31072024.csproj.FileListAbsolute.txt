@@ -1,0 +1,7 @@
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpThread31072024\bin\Debug\CSharpThread31072024.exe.config
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpThread31072024\bin\Debug\CSharpThread31072024.exe
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpThread31072024\bin\Debug\CSharpThread31072024.pdb
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpThread31072024\obj\Debug\CSharpThread31072024.csproj.AssemblyReference.cache
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpThread31072024\obj\Debug\CSharpThread31072024.csproj.CoreCompileInputs.cache
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpThread31072024\obj\Debug\CSharpThread31072024.exe
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpThread31072024\obj\Debug\CSharpThread31072024.pdb

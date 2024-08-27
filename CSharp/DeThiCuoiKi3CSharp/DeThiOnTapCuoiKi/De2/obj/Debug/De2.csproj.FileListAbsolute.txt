@@ -1,0 +1,12 @@
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\bin\Debug\De2.exe.config
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\bin\Debug\De2.exe
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\bin\Debug\De2.pdb
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\obj\Debug\De2.csproj.AssemblyReference.cache
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\obj\Debug\De2.csproj.CoreCompileInputs.cache
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\obj\Debug\De2.exe
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\obj\Debug\De2.pdb
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\bin\Debug\Newtonsoft.Json.dll
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\bin\Debug\Newtonsoft.Json.xml
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\obj\Debug\De2.Cau4_form.resources
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\obj\Debug\De2.csproj.GenerateResource.cache
+D:\CODE_Study_CMC\CSharp\DeThiCuoiKi3CSharp\De2\obj\Debug\De2.csproj.Up2Date

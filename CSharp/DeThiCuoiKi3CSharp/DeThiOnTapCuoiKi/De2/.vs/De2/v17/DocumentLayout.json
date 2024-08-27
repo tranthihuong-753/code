@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09E42E1-DE65-4B06-9377-17A0E4B53966}|De2.csproj|d:\\code_study_cmc\\csharp\\dethicuoiki3csharp\\de2\\cau4_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09E42E1-DE65-4B06-9377-17A0E4B53966}|De2.csproj|solutionrelative:cau4_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09E42E1-DE65-4B06-9377-17A0E4B53966}|De2.csproj|d:\\code_study_cmc\\csharp\\dethicuoiki3csharp\\de2\\cau4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09E42E1-DE65-4B06-9377-17A0E4B53966}|De2.csproj|solutionrelative:cau4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09E42E1-DE65-4B06-9377-17A0E4B53966}|De2.csproj|d:\\code_study_cmc\\csharp\\dethicuoiki3csharp\\de2\\cau4_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C09E42E1-DE65-4B06-9377-17A0E4B53966}|De2.csproj|solutionrelative:cau4_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09E42E1-DE65-4B06-9377-17A0E4B53966}|De2.csproj|D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\cau2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09E42E1-DE65-4B06-9377-17A0E4B53966}|De2.csproj|solutionrelative:cau2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|De2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09E42E1-DE65-4B06-9377-17A0E4B53966}|De2.csproj|d:\\code_study_cmc\\csharp\\dethicuoiki3csharp\\de2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "De2",
+              "DocumentMoniker": "D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\De2.csproj",
+              "RelativeDocumentMoniker": "De2.csproj",
+              "ToolTip": "D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\De2.csproj",
+              "RelativeToolTip": "De2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T05:43:15.535Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cau4_form.cs [Design]",
+              "DocumentMoniker": "D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\Cau4_form.cs",
+              "RelativeDocumentMoniker": "Cau4_form.cs",
+              "ToolTip": "D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\Cau4_form.cs [Design]",
+              "RelativeToolTip": "Cau4_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:21:58.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cau4.cs",
+              "DocumentMoniker": "D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\Cau4.cs",
+              "RelativeDocumentMoniker": "Cau4.cs",
+              "ToolTip": "D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\Cau4.cs",
+              "RelativeToolTip": "Cau4.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:23:34.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cau4_form.cs",
+              "DocumentMoniker": "D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\Cau4_form.cs",
+              "RelativeDocumentMoniker": "Cau4_form.cs",
+              "ToolTip": "D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\Cau4_form.cs",
+              "RelativeToolTip": "Cau4_form.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:26:49.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cau2.cs",
+              "DocumentMoniker": "D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\Cau2.cs",
+              "RelativeDocumentMoniker": "Cau2.cs",
+              "ToolTip": "D:\\CODE_Study_CMC\\CSharp\\DeThiCuoiKi3CSharp\\De2\\Cau2.cs",
+              "RelativeToolTip": "Cau2.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwA0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T05:36:59.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

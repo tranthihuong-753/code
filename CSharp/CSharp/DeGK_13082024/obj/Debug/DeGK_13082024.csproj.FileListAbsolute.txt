@@ -1,0 +1,7 @@
+D:\LinhTinhVoVanXamChoa\CSharp\DeGK_13082024\bin\Debug\DeGK_13082024.exe.config
+D:\LinhTinhVoVanXamChoa\CSharp\DeGK_13082024\bin\Debug\DeGK_13082024.exe
+D:\LinhTinhVoVanXamChoa\CSharp\DeGK_13082024\bin\Debug\DeGK_13082024.pdb
+D:\LinhTinhVoVanXamChoa\CSharp\DeGK_13082024\obj\Debug\DeGK_13082024.csproj.AssemblyReference.cache
+D:\LinhTinhVoVanXamChoa\CSharp\DeGK_13082024\obj\Debug\DeGK_13082024.csproj.CoreCompileInputs.cache
+D:\LinhTinhVoVanXamChoa\CSharp\DeGK_13082024\obj\Debug\DeGK_13082024.exe
+D:\LinhTinhVoVanXamChoa\CSharp\DeGK_13082024\obj\Debug\DeGK_13082024.pdb

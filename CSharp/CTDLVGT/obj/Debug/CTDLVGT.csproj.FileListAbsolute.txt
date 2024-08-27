@@ -1,7 +1,0 @@
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CTDLVGT\obj\Debug\CTDLVGT.csproj.AssemblyReference.cache
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CTDLVGT\obj\Debug\CTDLVGT.csproj.CoreCompileInputs.cache
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CTDLVGT\bin\Debug\CTDLVGT.exe.config
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CTDLVGT\bin\Debug\CTDLVGT.exe
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CTDLVGT\bin\Debug\CTDLVGT.pdb
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CTDLVGT\obj\Debug\CTDLVGT.exe
-C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CTDLVGT\obj\Debug\CTDLVGT.pdb

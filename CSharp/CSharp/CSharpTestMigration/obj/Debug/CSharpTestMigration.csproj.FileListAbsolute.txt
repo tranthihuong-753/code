@@ -1,0 +1,12 @@
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\bin\Debug\CSharpTestMigration.exe.config
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\bin\Debug\CSharpTestMigration.exe
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\bin\Debug\CSharpTestMigration.pdb
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\bin\Debug\EntityFramework.dll
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\bin\Debug\EntityFramework.SqlServer.dll
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\bin\Debug\EntityFramework.xml
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\bin\Debug\EntityFramework.SqlServer.xml
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\obj\Debug\CSharpTestMigration.csproj.AssemblyReference.cache
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\obj\Debug\CSharpTestMigration.csproj.CoreCompileInputs.cache
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\obj\Debug\CSharpTe.35728679.Up2Date
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\obj\Debug\CSharpTestMigration.exe
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTestMigration\obj\Debug\CSharpTestMigration.pdb

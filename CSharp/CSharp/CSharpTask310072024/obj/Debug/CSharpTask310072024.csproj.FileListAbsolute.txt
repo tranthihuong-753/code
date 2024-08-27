@@ -1,0 +1,7 @@
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTask310072024\bin\Debug\CSharpTask310072024.exe.config
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTask310072024\bin\Debug\CSharpTask310072024.exe
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTask310072024\bin\Debug\CSharpTask310072024.pdb
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTask310072024\obj\Debug\CSharpTask310072024.csproj.AssemblyReference.cache
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTask310072024\obj\Debug\CSharpTask310072024.csproj.CoreCompileInputs.cache
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTask310072024\obj\Debug\CSharpTask310072024.exe
+D:\LinhTinhVoVanXamChoa\CSharp\CSharpTask310072024\obj\Debug\CSharpTask310072024.pdb
