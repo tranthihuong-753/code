@@ -1,0 +1,7 @@
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpFiletxt\bin\Debug\CSharpFiletxt.exe.config
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpFiletxt\bin\Debug\CSharpFiletxt.exe
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpFiletxt\bin\Debug\CSharpFiletxt.pdb
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpFiletxt\obj\Debug\CSharpFiletxt.csproj.AssemblyReference.cache
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpFiletxt\obj\Debug\CSharpFiletxt.csproj.CoreCompileInputs.cache
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpFiletxt\obj\Debug\CSharpFiletxt.exe
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpFiletxt\obj\Debug\CSharpFiletxt.pdb

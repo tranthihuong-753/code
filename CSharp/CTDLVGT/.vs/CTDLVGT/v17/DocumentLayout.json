@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhhuo\\OneDrive\\CMC\\code\\CSharp\\CTDLVGT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02752E27-2EDC-492C-A8CA-07487788F890}|CTDLVGT.csproj|c:\\users\\dhhuo\\onedrive\\cmc\\code\\csharp\\ctdlvgt\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02752E27-2EDC-492C-A8CA-07487788F890}|CTDLVGT.csproj|solutionrelative:tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CTDLVGT||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CTDLVGT",
+              "DocumentMoniker": "C:\\Users\\dhhuo\\OneDrive\\CMC\\code\\CSharp\\CTDLVGT\\CTDLVGT.csproj",
+              "RelativeDocumentMoniker": "CTDLVGT.csproj",
+              "ToolTip": "C:\\Users\\dhhuo\\OneDrive\\CMC\\code\\CSharp\\CTDLVGT\\CTDLVGT.csproj",
+              "RelativeToolTip": "CTDLVGT.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-04T04:22:58.044Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tree.cs",
+              "DocumentMoniker": "C:\\Users\\dhhuo\\OneDrive\\CMC\\code\\CSharp\\CTDLVGT\\tree.cs",
+              "RelativeDocumentMoniker": "tree.cs",
+              "ToolTip": "C:\\Users\\dhhuo\\OneDrive\\CMC\\code\\CSharp\\CTDLVGT\\tree.cs",
+              "RelativeToolTip": "tree.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwIsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:00:28.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

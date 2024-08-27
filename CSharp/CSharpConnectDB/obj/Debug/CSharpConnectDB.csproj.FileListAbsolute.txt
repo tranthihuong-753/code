@@ -1,0 +1,7 @@
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpConnectDB\obj\Debug\CSharpConnectDB.csproj.AssemblyReference.cache
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpConnectDB\obj\Debug\CSharpConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpConnectDB\bin\Debug\CSharpConnectDB.exe.config
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpConnectDB\bin\Debug\CSharpConnectDB.exe
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpConnectDB\bin\Debug\CSharpConnectDB.pdb
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpConnectDB\obj\Debug\CSharpConnectDB.exe
+C:\Users\dhhuo\OneDrive\CMC\code\CSharp\CSharpConnectDB\obj\Debug\CSharpConnectDB.pdb

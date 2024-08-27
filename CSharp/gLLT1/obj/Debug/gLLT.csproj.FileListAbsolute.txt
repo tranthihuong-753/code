@@ -1,0 +1,7 @@
+C:\Users\dhhuo\OneDrive\CMC2023\code\CSharp\gLLT1\bin\Debug\gLLT1.exe.config
+C:\Users\dhhuo\OneDrive\CMC2023\code\CSharp\gLLT1\bin\Debug\gLLT1.exe
+C:\Users\dhhuo\OneDrive\CMC2023\code\CSharp\gLLT1\bin\Debug\gLLT1.pdb
+C:\Users\dhhuo\OneDrive\CMC2023\code\CSharp\gLLT1\obj\Debug\gLLT.csproj.AssemblyReference.cache
+C:\Users\dhhuo\OneDrive\CMC2023\code\CSharp\gLLT1\obj\Debug\gLLT.csproj.CoreCompileInputs.cache
+C:\Users\dhhuo\OneDrive\CMC2023\code\CSharp\gLLT1\obj\Debug\gLLT1.exe
+C:\Users\dhhuo\OneDrive\CMC2023\code\CSharp\gLLT1\obj\Debug\gLLT1.pdb
